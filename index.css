@@ -192,7 +192,7 @@ main{
   border-color:gainsboro;
   background-color: white;
   padding-top: 30px;
-}/*
+}
 .user1 p{
   color: dimgrey;
 }
@@ -209,7 +209,7 @@ main{
 }
 .user2 p{
   color: dimgrey;
-}
+}/*
 .user3{
   border-style: solid;
   border-radius: 7px;
