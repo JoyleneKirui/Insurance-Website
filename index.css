@@ -313,7 +313,7 @@ main{
 sup{
   font-size: 15px;
   font-weight: 800;
-}/*
+}
 .number{
   font-size: 45px;
   color: #23A6F0;
@@ -328,7 +328,7 @@ sup{
   text-align: center;
   border-color: lightskyblue;
 }
-
+/*
 .free ul li{
   list-style: none;
   text-align: left;
