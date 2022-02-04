@@ -283,7 +283,7 @@ main{
   flex-direction: column;
   text-align: center;
   padding-bottom: 50px;
-}/*
+}
 .price>p{
   color: grey;
 }
@@ -293,7 +293,7 @@ main{
   justify-content: center;
   padding-top: 80px;
   font-weight: 500;
-}
+}/*
 .rates h3{
   padding-top: 50px;
   font-weight: 800;
