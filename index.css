@@ -1,4 +1,4 @@
-*{
+ *{
   font-family: Montserrat, Albori sans-serif;
   margin: 0;
   padding: 0;
@@ -10,7 +10,7 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
-}
+}/*
 .login{
   display: flex;
   flex-direction: row;
@@ -555,4 +555,4 @@ ol li:first-child{
 .face li{
   color: #23A6F0;
 }
-
+ */
