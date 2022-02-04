@@ -223,7 +223,7 @@ main{
 }
 .user3 p{
    color: dimgrey;
-}/*
+}
 .images{
   display: flex;
   justify-content: space-evenly;
@@ -231,7 +231,7 @@ main{
   margin-left: 85px;
   height: 10vh;
   margin-right: 95px;
-}
+}/*
 .news{
   margin-bottom: 150px;
   margin-top: 80px;
