@@ -250,7 +250,7 @@ main{
   color: white;
   margin-left: -120px;
 
-}/*
+}
 .Subscribe{
   background-color:#23A6F0;
   width: 350px;
@@ -283,7 +283,7 @@ main{
   flex-direction: column;
   text-align: center;
   padding-bottom: 50px;
-}
+}/*
 .price>p{
   color: grey;
 }
