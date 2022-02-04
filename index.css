@@ -101,7 +101,7 @@
   border-color: white;
   position:relative;
   margin-left: 10px;
-}/*
+}
 .fox{
   display: flex;
   flex-direction: row;
@@ -119,7 +119,7 @@
   padding-left: 40px;
   padding-bottom: 30px;
 }
-
+/*
 .life{
   background-color: white;
   width: 260px;
