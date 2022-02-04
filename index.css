@@ -30,7 +30,7 @@
 .pages>li{
   margin-right:20px;
   list-style: none;
-}/*
+}
 .log{
   display: flex;
 }
@@ -48,7 +48,7 @@
   color: white;
   font-weight: 700;
   font-size: 15px;
-}
+}/*
 .fa-arrow-right{
   padding-left: 10px;
 
