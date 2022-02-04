@@ -167,7 +167,7 @@ main{
 }
 .industry p{
   color: dimgrey;
-}/*
+}
 .review{
   display: flex;
   padding: 5px;
@@ -192,7 +192,7 @@ main{
   border-color:gainsboro;
   background-color: white;
   padding-top: 30px;
-}
+}/*
 .user1 p{
   color: dimgrey;
 }
