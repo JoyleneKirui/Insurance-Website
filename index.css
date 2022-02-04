@@ -209,7 +209,7 @@ main{
 }
 .user2 p{
   color: dimgrey;
-}/*
+}
 .user3{
   border-style: solid;
   border-radius: 7px;
@@ -223,7 +223,7 @@ main{
 }
 .user3 p{
    color: dimgrey;
-}
+}/*
 .images{
   display: flex;
   justify-content: space-evenly;
