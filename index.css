@@ -567,4 +567,12 @@ ol li:first-child{
   background-color: red;
 
   }
+  div{
+    width: 200px;
+    padding: 0px;
+  }
+  p{
+    font-size: 12px;
+  }
 }
+
