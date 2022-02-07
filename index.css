@@ -326,9 +326,9 @@ sup{
   height: 620px;
   width:300px;
   text-align: center;
-  border-color: lightskyblue;
+  border-color: #23A6F0;
 }
-/*
+
 .free ul li{
   list-style: none;
   text-align: left;
@@ -359,7 +359,7 @@ sup{
   margin-top: -40px;
   background-color: #043f57;
   color: white;
-  border-color: lightskyblue;
+  border-color: #23A6F0;
 }
 .standard p{
   color: white;
@@ -378,7 +378,7 @@ sup{
   border-style: solid;
   height: 620px;
   width:300px;
-  border-color: lightskyblue;
+  border-color: #23A6F0;
 }
 
 .premium ul li{
@@ -555,4 +555,16 @@ ol li:first-child{
 .face li{
   color: #23A6F0;
 }
- */
+@media only screen and (max-width:600px) {
+  *{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: Montserrat;
+      overflow-x: hidden;
+  }
+  main{
+  background-color: red;
+
+  }
+}
