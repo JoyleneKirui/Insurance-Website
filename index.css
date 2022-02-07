@@ -323,7 +323,7 @@ sup{
   border-radius: 8px;
   border-width: 2px;
   border-style: solid;
-  height: 620px;
+  height: 650px;
   width:300px;
   text-align: center;
   border-color: #23A6F0;
@@ -354,7 +354,7 @@ sup{
   border-width: 2px;
   border-style: solid;
   text-align: center;
-  height: 660px;
+  height: 690px;
   width:300px;
   margin-top: -40px;
   background-color: #043f57;
@@ -376,7 +376,7 @@ sup{
   border-width: 2px;
   text-align: center;
   border-style: solid;
-  height: 620px;
+  height: 650px;
   width:300px;
   border-color: #23A6F0;
 }
@@ -398,6 +398,7 @@ sup{
   color: white;
   font-size: 15px;
   font-weight: 600;
+  
 }
 .branches{
   margin-left: 180px;
@@ -553,7 +554,9 @@ ol li:first-child{
   height: 20px;
 }
 .face li{
+  display: inline-flex;
   color: #23A6F0;
+  
 }
 @media only screen and (max-width:600px) {
   *{
@@ -563,10 +566,7 @@ ol li:first-child{
       font-family: Montserrat;
       overflow-x: hidden;
   }
-  main{
-  background-color: red;
-
-  }
+ 
   div{
     width: 200px;
     padding: 0px;
