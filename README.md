@@ -12,6 +12,12 @@
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 ## Description
 <p>This is a web application,developed using HTML and CSS</p>
 
